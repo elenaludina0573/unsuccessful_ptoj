@@ -1,2 +1,4 @@
+s = input()
 def str_func ():
-    return s.upper()
+    str = s.upper()
+    return (str)
